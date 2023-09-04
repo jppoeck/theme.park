@@ -6,7 +6,6 @@
 
 @import url(/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css);
 :root {
---main-bg: radial-gradient(ellipse at center,rgba(0, 255, 119, 0.1) 0,rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
-    url(/css/addons/unraid/login-page/alien/wallpaper/Blue.jpg) center center/cover no-repeat fixed;
+--main-bg-color:black;
 --logo: url(/css/addons/unraid/login-page/alien/logo/JP Icon.png) center no-repeat;
 }
